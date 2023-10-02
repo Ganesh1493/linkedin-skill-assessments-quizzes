@@ -1,6 +1,6 @@
 ## Git
 
-#### Q1. How can you check your current git version?
+#### Q1. How can you check your current git version? 
 
 - [ ] git --v
 - [x] git --version
